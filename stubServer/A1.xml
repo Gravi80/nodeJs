@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vehicles>
+    <vehicle>
+        <vehicle-number>responseA1</vehicle-number>
+        <latitude>12.9341683</latitude>
+        <longitude>80.1006566</longitude>
+    </vehicle>
+</vehicles>
